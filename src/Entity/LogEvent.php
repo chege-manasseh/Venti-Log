@@ -1,5 +1,6 @@
 <?php
 
+
 namespace VentiLog\Entity;
 
 use VentiLog\Contract\EventInterface;

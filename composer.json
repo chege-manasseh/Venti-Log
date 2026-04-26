@@ -1,0 +1,15 @@
+{
+    "name": "manasseh/venti-log",
+    "autoload": {
+        "psr-4": {
+            "VentiLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chege-manasseh",
+            "email": "chegemanasseh2@gmail.com"
+        }
+    ],
+    "require": {}
+}
